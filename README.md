@@ -1,8 +1,28 @@
-## 最新消息：<a href="https://gitee.com/MMinter/vue_node_wiki/wikis/vue+node交流群" target="_blank"><font color="red">vue3版本已经开发完成！</font>点击获取最新vue3源码</a>
+![海报](https://foruda.gitee.com/images/1730987419940406063/1bb88502_8986810.png "vue+node开源后台")
 
 
 
-### 最新升级版已完成，预览地址：<a href="http://vuenodeupgrade.yknba.cn/#/login" target="_blank">点击进入效果预览</a>
+<p align="center">
+   	<a href='https://gitee.com/MMinter/vue_node/stargazers'><img src='https://gitee.com/MMinter/vue_node/badge/star.svg?theme=dark' alt='star'></img></a>
+	<a href='https://gitee.com/MMinter/vue_node/members'><img src='https://gitee.com/MMinter/vue_node/badge/fork.svg?theme=white' alt='fork'></img></a>
+ 	<img src="https://img.shields.io/badge/Vue-2.6.10-orange" alt="Vue2"/>
+	<img src="https://img.shields.io/badge/Node-10.0.0~16.0.0-brightgreen" alt="Node"/>
+	<img src="https://img.shields.io/badge/Element-2.15.13-green" alt="Element2"/>
+	<img src="https://img.shields.io/badge/MySQL-2.17.1-blue" alt="Mysql"/>
+</p>
+
+<p align="center">
+    <a href="https://qm.qq.com/q/eCq31JHktO">
+    交流QQ群（717807656）
+    <img src="https://pub.idqqimg.com/wpa/images/group.png" alt="qq群：717807656"/>
+    </a>
+</p>
+
+## 最新消息：<a href="https://gitee.com/MMinter/vue_node_wiki/wikis/vue+node交流群" target="_blank">vue3版本开发完成！点击获取最新vue3源码</a>
+
+
+
+### 最新版本预览地址：<a href="http://vuenodeupgrade.yknba.cn/#/login" target="_blank">点击进入效果预览</a>
 
 - 默认账号：admin
 - 默认密码：666666
@@ -10,35 +30,31 @@
 ### 升级新功能如下：
 
 1. 整体进行优化代码，使得更小更容易上手。
-
 2. 加入登陆图形验证码验证，升级密码加密难度。
-
 3. 加入下载模板、导入、导出功能。
-
 4. 加入上传图片、上传文件（视频、音频等其他格式文件）。
-
 5. 加入个人信息管理页面。
-
 6. 加入富文本编辑功能。
-
 7. 加入大屏统计echarts展示功能。
-
-8. 页面合成图片，动态二维码合成图（vue3独有）
-
-9. Redis辅助功能（vue3独有）
+8. 页面合成图片、动态二维码合成（vue3独有）
+9. Redis辅助（vue3独有）
 10. 拖拽可视化（vue3独有）
 11. 图片管理模式（vue3独有）
-
-   
-
+12. 持续更新中...
 ------
 
-### 本开源库衍生的真实线上微信小程序》：
+### **《本开源库衍生的真实线上微信小程序》**：
 
 1. ​	*入口一：微信上搜索小程序：共享wx*
 2. ​	*入口二：微信扫码以下二维码体验效果*
 
-![](https://foruda.gitee.com/images/1706259979478250995/03d1fb75_8986810.jpeg)
+<p align="center">
+     <img src="https://foruda.gitee.com/images/1706259979478250995/03d1fb75_8986810.jpeg" alt="qq群：717807656"/>
+</p>
+
+
+
+
 
 
 
@@ -176,13 +192,15 @@
   > - [x] ​			***角色权限拦截***
   > - [x] ​			***错误日志log`***
 
-  
+
 
 ## 五、效果截图
 
-![登录](https://foruda.gitee.com/images/1681197680240561436/dfbf1881_8986810.png "登录.png")   
-| ![用户管理](https://foruda.gitee.com/images/1681197937191145993/c434e92e_8986810.png "用户管理.png") | ![主题修改](https://foruda.gitee.com/images/1681263456631597583/3077263f_8986810.png "主题修改.png") |
+| ![登录](https://foruda.gitee.com/images/1730969967158316226/8ad79a04_8986810.jpeg "登录.jpg") | ![大屏展示](https://foruda.gitee.com/images/1730970786918750491/e04c52c8_8986810.jpeg "大屏展示.jpg") |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![页面生成图](https://foruda.gitee.com/images/1730970844379745523/ba8d8df5_8986810.jpeg "页面生成图.jpg") | ![拖拽](https://foruda.gitee.com/images/1730971061198872018/e4fb905a_8986810.jpeg "拖拽.jpg") |
+| ![图片库](https://foruda.gitee.com/images/1730971146843912280/77457fe4_8986810.jpeg "图片库.jpg") | ![富文本](https://foruda.gitee.com/images/1730971172194083489/262388d2_8986810.jpeg "富文本.jpg") |
+| ![用户管理](https://foruda.gitee.com/images/1681197937191145993/c434e92e_8986810.png "用户管理.png") | ![主题修改](https://foruda.gitee.com/images/1681263456631597583/3077263f_8986810.png "主题修改.png") |
 | ![菜单管理](https://foruda.gitee.com/images/1681197808163981644/96f27575_8986810.png "菜单管理.png") | ![菜单修改](https://foruda.gitee.com/images/1681197825348384952/281da67c_8986810.png "菜单修改.png") |
 | ![角色管理](https://foruda.gitee.com/images/1681197773630264222/4ec415e3_8986810.png "角色管理.png") | ![字典管理](https://foruda.gitee.com/images/1681197948454663203/788cbd7e_8986810.png "字典管理.png") |
 ------
